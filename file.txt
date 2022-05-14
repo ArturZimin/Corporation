@@ -1,0 +1,1 @@
+[Employee{name='Dan', surname='Panda', age=31, workExperience=2, position='manager'}, Employee{name='Mik', surname='Pandadoc', age=29, workExperience=4, position='director'}, Employee{name='Artem', surname='Panda', age=28, workExperience=9, position='teacher'}, Employee{name='Andrey', surname='Panas', age=33, workExperience=4, position='Team Lead'}]
